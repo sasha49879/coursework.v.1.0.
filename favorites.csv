@@ -1,0 +1,10 @@
+id,name,popularity,duration_ms,explicit,artists,id_artists,release_date,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,language
+6Il1QyEjq5Nm24qp7YXBR1,Прірва,32,174961,0,['The Hardkiss'],['4IJcztNtY5L7G3qK4yu1qt'],2014,0.521,0.522,2,-7.287,0,0.0289,0.637,0.0,0.124,0.332,79.706,4,uk
+307BZpDAtO3OwRs2wrV1S9,На небі,46,221635,0,['Okean Elzy'],['6NTzEgUmN1PIBIYEHhf1kS'],2013-05-15,0.64,0.465,0,-7.221,0,0.0284,0.632,0.0,0.135,0.548,79.946,4,uk
+2WuTkxIxWFVOsHpxQSdugZ,Незалежність,29,196462,0,['Okean Elzy'],['6NTzEgUmN1PIBIYEHhf1kS'],2013-05-15,0.591,0.425,3,-8.587,1,0.0294,0.769,0.000528,0.102,0.286,92.066,4,uk
+2TpNeeSqSlZSUNwbtf3Kej,У мене немає дому,47,198429,0,['Odyn v Kanoe'],['5fMNki1cAszN37EYRTVdOc'],2019-01-15,0.649,0.453,1,-7.103,0,0.0354,0.793,0.0,0.109,0.422,140.01,4,uk
+0KfOWsMJxjrtNBUcrEbWix,Пообіцяй мені,41,316579,0,['Odyn v Kanoe'],['5fMNki1cAszN37EYRTVdOc'],2016-01-24,0.689,0.219,4,-6.982,0,0.0337,0.763,0.0,0.106,0.254,75.958,4,uk
+0Y5i43d7YtHWyYulOojDXP,Без бою,49,259897,0,['Okean Elzy'],['6NTzEgUmN1PIBIYEHhf1kS'],2005,0.633,0.787,2,-4.803,0,0.0352,0.343,4.43e-06,0.127,0.496,81.994,4,uk
+6J0Up5777V17k7OSa0woPE,За буйки,28,269840,0,['Boombox'],['2c3PFZtun8HemDbDfRPV6G'],2011,0.588,0.705,2,-4.642,0,0.0464,0.145,0.0,0.12,0.37,88.988,4,uk
+1DjPynhNFePUXjUswwgGHS,Сам собі країна,35,189573,0,['Skryabin'],['5RqIkHQnXRZlm1ozfSS1IO'],2016-07-19,0.684,0.658,2,-9.584,1,0.0339,0.525,2.21e-06,0.137,0.552,81.158,4,uk
+6uF79TEXMC4Lc58FxCpfBK,Янанебібув,28,198950,0,['Okean Elzy'],['6NTzEgUmN1PIBIYEHhf1kS'],2000-02-21,0.561,0.757,2,-8.926,0,0.0274,0.00804,0.0,0.197,0.52,102.001,4,uk
